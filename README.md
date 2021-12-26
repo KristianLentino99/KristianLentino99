@@ -14,13 +14,13 @@
 - 📄 Know about me [https://kristianlentino.it](https://kristianlentino.it)
 
 <h3>Hobby</h3>
-- 🗺 Travel around the world <br/>
-- 🎶 Rock's music <br/>
-- 🇯🇵 Japan. <br/>
-- 💬 I love to join in meetup/workshop and other things like that <br/>
-- 💭 Read manga and psychology books <br/>
-- 📈 Study personal finance <br/>
- - 💻 Keep me always up to date <br/>
+ 🗺 Travel around the world <br/>
+ 🎶 Rock's music <br/>
+ 🇯🇵 Japan. <br/>
+ 💬 I love to join in meetup/workshop and other things like that <br/>
+ 💭 Read manga and psychology books <br/>
+ 📈 Study personal finance <br/>
+ 💻 Keep me always up to date <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
