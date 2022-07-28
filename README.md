@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristianlentino99&label=Profile%20views&color=0e75b6&style=flat" alt="kristianlentino99" /> </p>
 
 
-- 🔭 I’m currently working in [Dieffetech](https://www.dieffe.tech/)
+- 🔭 I’m currently working in [Moneyfarm](https://www.moneyfarm.com/)
 
-- 🌱 I’m currently learning **React, Node js, Design patterns**
+- 🌱 Currently learning **React and Scala**
 
 - 👯 I’m looking to collaborate on **stimulating projects**
 
