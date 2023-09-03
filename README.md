@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristianlentino99&label=Profile%20views&color=0e75b6&style=flat" alt="kristianlentino99" /> </p>
 
 <h1>About me</h1>
-I’m currently working in [Moneyfarm](https://www.moneyfarm.com/), an italian company that allows customers to create investment solutions that grow and protect their wealth inexpensively and with maximum transparency.
+I’m currently working in Moneyfarm, an italian company that allows customers to create investment solutions that grow and protect their wealth inexpensively and with maximum transparency.
 I love to learn new things and that's the reason why I'm continuously learning new things and new languages/frameworks. Currently I'm studying mainly <b>Scala</b> and <b>React</b>.
 Even if I'm not a big Open Source contributor, I love to give contribution in projects which I found really interesting. 
 
