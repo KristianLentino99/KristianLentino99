@@ -10,20 +10,19 @@
 
 - 👯 I’m looking to collaborate on **stimulating projects**
 
-- 📄 Know about me [https://kristianlentino.it](https://kristianlentino.it)
-
 <h3>Hobby</h3>
  🗺 Travel around the world <br/>
  🎶 Rock's music <br/>
  🇯🇵 Japan. <br/>
- 💬 I love to join in meetup/workshop and other things like that <br/>
- 💭 Read manga and psychology books <br/>
+ 💬 I love to join in meetups,workshops and conferences <br/>
+ 💭 Read manga and psychology/sociology books <br/>
  📈 Study personal finance <br/>
  💻 Keep me always up to date <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kristianlentino99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kristianlentino99" height="30" width="40" /></a>
+ <a href="[Hashnode](https://kristianlentino.hashnode.dev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="kristianlentino99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kristian-lentino-941694166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristian-lentino-941694166" height="30" width="40" /></a>
 </p>
 
