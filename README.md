@@ -24,10 +24,4 @@ Even if I'm not a big Open Source contributor, I love to give contribution in pr
  <a href="https://kristianlentino.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="kristianlentino99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kristian-lentino-941694166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristian-lentino-941694166" height="30" width="40" /></a>
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kristianlentino99" alt="kristianlentino99" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristianlentino99&show_icons=true&locale=en&layout=compact" alt="kristianlentino99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kristianlentino99&show_icons=true&locale=en" alt="kristianlentino99" /></p>
   
