@@ -5,14 +5,14 @@
 
 <h1>About me</h1>
 Backend Software Engineer by day working with Scala, and Manga Kaizen co-founder by night working with React and React Native.
-Currently working in both two of my passions: the world of finance and the fantastic universe of anime & manga. When I'm not writing code or reading manga series, you'll find me travel around the world. 
-Sometimes when I have good ideas I also try to write some blogs with mandatory anime memes.
+When I'm not writing code or reading manga series, you'll find me traveling worldwide. 
+Sometimes when I have good ideas I also write blogs with mandatory anime memes.
 
 <h2>My hobbies</h2>
  🗺 Travel around the world <br/>
  🎶 Rock's music <br/>
  🇯🇵 Japan. <br/>
- 💬 Meetups,workshops and conferences <br/>
+ 💬 Meetups, workshops and conferences <br/>
  💭 Read manga and psychology/sociology books <br/>
  📈 Personal finance <br/>
  💻 Keep me always up to date on tech topics <br/>
