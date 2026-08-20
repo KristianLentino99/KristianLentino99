@@ -4,19 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristianlentino99&label=Profile%20views&color=0e75b6&style=flat" alt="kristianlentino99" /> </p>
 
 <h1>About me</h1>
-Backend Software Engineer by day working with Scala, and Manga Kaizen co-founder by night working with React and React Native.
-When I'm not writing code or reading manga series, you'll find me traveling worldwide. 
-Sometimes when I have good ideas I also write blogs with mandatory anime memes.
+Product Engineer by day working with Scala, Typescript and React, and Koomy founder at night, building the leading digital platform to read comics in Italy.
+Usually, when I'm not at my desk writing code, you'll find me reading manga series or traveling worldwide. 
+Love to share the goals and the failures of my Journey!
 
 <h2>My hobbies</h2>
- 🗺 Travel around the world <br/>
+ 🗺 Travel (especially in Japan) <br/>
  🎶 Rock's music <br/>
  🇯🇵 Japan. <br/>
  💬 Meetups, workshops and conferences <br/>
  💭 Read manga and psychology/sociology books <br/>
  📈 Personal finance <br/>
- 💻 Keep me always up to date on tech topics <br/>
- ✍🏼 I like writing blog posts with my thoughts, it's a way to express myself (with some anime memes)!
+ 💻 Tech & AI (of course) <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
